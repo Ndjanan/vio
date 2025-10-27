@@ -1,5 +1,5 @@
-fastapi
 uvicorn
+fastapi
 requests
 joblib
 scikit-learn
@@ -7,5 +7,6 @@ numpy
 pandas
 python-dotenv
 supabase
+
 
 
